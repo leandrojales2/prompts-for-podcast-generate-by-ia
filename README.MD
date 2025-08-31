@@ -1,8 +1,15 @@
 <p align="center">
 <img 
-    src="./assets/cover.png"
+    src="./assets/estudio.png"
     width="300"
 />
+</p>
+
+<a href="https://www.youtube.com/watch?v=RjxeGpoF5NE">
+<img 
+    src="https://img.shields.io/badge/DIO-Code_The_Future-28DA77?logo=youtube" 
+    alt="Voz da Máquina">
+</a>
 </p>
 
 <p align="center">
